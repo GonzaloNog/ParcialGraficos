@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (ejercicio1.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  ejer1.cpp
+  ejercicio1.vcxproj -> C:\Users\Usuario\Desktop\GraficosParcial\ParcialGraficos\Zeiss\Debug\ejer1.lib
